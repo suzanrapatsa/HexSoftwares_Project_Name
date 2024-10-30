@@ -4,12 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kgoadiba Suzan - Data Engineer</title>
-    <link rel="stylesheet" href="style.css">
+    <link href="C:\Users\Mampa K.E\Documents\HexSoftwares\My Portfolio\CSS" rel="stylesheet" type="text/CSS">
+    
 </head>
-<body>
+<body background="C:\Users\Mampa K.E\Downloads\img-slider-2.avif">
     <header>
-        <h1>Kgoadiba Suzan</h1>
-        <h2>Data Engineer</h2>
+        <h1>Kgoadiba Suzan Rapatsha</h1>
+        <u><h2>Data Engineer</h2></u>
         <nav>
             <ul>
                 <li><a href="#about">About</a></li>
@@ -22,14 +23,14 @@
     </header>
 
     <section id="about">
-        <h2>About Me</h2>
+        <u><h2>About Me</h2></u>
         <p>A dedicated and enthusiastic Data Engineer with a passion for leveraging data to drive business insights. 
-        Strong interpersonal skills and a collaborative approach enable me to work effectively with diverse teams. 
-        I am eager to contribute my technical expertise to challenging projects and deliver innovative solutions.</p>
+        Strong interpersonal skills and a <br>collaborative approach enable me to work effectively with diverse teams. 
+        I am eager to contribute my technical expertise to challenging projects<br> and deliver innovative solutions.</p>
     </section>
 
     <section id="skills">
-        <h2>Skills</h2>
+        <u><h2>Skills</h2></u>
         <ul>
             <li>Python</li>
             <li>SQL</li>
@@ -45,11 +46,11 @@
     </section>
 
     <section id="experience">
-        <h2>Experience</h2>
+        <u><h2>Experience</h2></u>
         <div class="experience-item">
             <h3>Data Engineer</h3>
             <h4>Absa | Remotely</h4>
-            <p>Feb 2024 - Jul 2024</p>
+            <i><p>Feb 2024 - Jul 2024</p></i>
             <ul>
                 <li>Monitored daily application performance using ESP dSeries WADE.</li>
                 <li>Developed NLP models for named entity recognition.</li>
@@ -59,7 +60,7 @@
         <div class="experience-item">
             <h3>Data Engineer</h3>
             <h4>Sand Technologies | Remotely</h4>
-            <p>Jul 2023 - Feb 2024</p>
+            <i><p>Jul 2023 - Feb 2024</p></i>
             <ul>
                 <li>Extracted, transformed, and loaded data from diverse sources using Python and SQL.</li>
                 <li>Worked with big data technologies like Hadoop, PySpark, and Apache Airflow.</li>
@@ -70,7 +71,7 @@
         <div class="experience-item">
             <h3>IT Technician</h3>
             <h4>Department of COGHSTA | Polokwane</h4>
-            <p>Oct 2019 - Apr 2021</p>
+            <i><p>Oct 2019 - Apr 2021</p></i>
             <ul>
                 <li>Provided technical support to end-users.</li>
                 <li>Installed software and drivers.</li>
@@ -81,43 +82,44 @@
     </section>
 
     <section id="education">
-        <h2>Education & Certifications</h2>
+        <u><h2>Education & Certifications</h2></u>
         <div class="education-item">
-            <h3>National Certificate System Development</h3>
+            <h3><li>National Certificate System Development</li></h3>
             <h4>ExploreAI Academy</h4>
-            <p>Jun 2023 - Jul 2024</p>
+            <i><p>Jun 2023 - Jul 2024</p></i>
         </div>
         <div class="education-item">
-            <h3>National Certificate (Vocational) Information Technology and Computer Science</h3>
+            <h3><li>National Certificate (Vocational) Information Technology and Computer Science</li></h3>
             <h4>Capricorn TVET College</h4>
-            <p>Feb 2015 - Dec 2017</p>
+            <i><p>Feb 2015 - Dec 2017</p></i>
         </div>
         <div class="education-item">
-            <h3>Microsoft Certified Solution Expert</h3>
+            <h3><li>Microsoft Certified Solution Expert</li></h3>
             <h4>Microsoft</h4>
-            <p>Jun 2019</p>
+            <i><p>11 Jun 2019</p></i>
         </div>
         <div class="education-item">
-            <h3>Microsoft Certified Azure AI Fundamentals</h3>
+            <h3><li>Microsoft Certified Azure AI Fundamentals</li></h3>
             <h4>Microsoft</h4>
-            <p>Mar 2021</p>
+            <i><p>25 Mar 2021</p></i>
         </div>
         <div class="education-item">
-            <h3>Microsoft Power BI Desktop for Business Intelligence</h3>
+            <h3><li>Microsoft Power BI Desktop for Business Intelligence</li></h3>
             <h4>Udemy</h4>
-            <p>Apr 2024</p>
+            <i><p>07 Apr 2024</p></i>
         </div>
     </section>
 
     <section id="contact">
-        <h2>Contact</h2>
+        <u><h2>Contact</h2></u>
         <p>Email: suzanrapatsa86@gmail.com</p>
         <p>LinkedIn: https://www.linkedin.com/in/kgoadi-ba-suzan-rapatsha</p>
         <p>Phone: +27 79 124 6696</p>
     </section>
 
     <footer>
-        <p>&copy; 2023 Kgoadiba Suzan</p>
+        <p>&copy; 2024 Kgoadiba Suzan</p>
     </footer>
 </body>
 </html>
+
