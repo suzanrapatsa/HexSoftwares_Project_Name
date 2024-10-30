@@ -4,13 +4,50 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kgoadiba Suzan - Data Engineer</title>
-    <link href="C:\Users\Mampa K.E\Documents\HexSoftwares\My Portfolio\CSS" rel="stylesheet" type="text/CSS">
-    
+    <style>
+        body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    background-color: #bbffa1;
+    padding: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+.experience-item, .education-item {
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #f2f2f2;
+}
+    </style>
 </head>
 <body background="C:\Users\Mampa K.E\Downloads\img-slider-2.avif">
     <header>
         <h1>Kgoadiba Suzan Rapatsha</h1>
-        <u><h2>Data Engineer</h2></u>
+        <h2>Data Engineer</h2>
         <nav>
             <ul>
                 <li><a href="#about">About</a></li>
@@ -23,14 +60,14 @@
     </header>
 
     <section id="about">
-        <u><h2>About Me</h2></u>
+        <h2>About Me</h2>
         <p>A dedicated and enthusiastic Data Engineer with a passion for leveraging data to drive business insights. 
-        Strong interpersonal skills and a <br>collaborative approach enable me to work effectively with diverse teams. 
-        I am eager to contribute my technical expertise to challenging projects<br> and deliver innovative solutions.</p>
+        Strong interpersonal skills and <br>a collaborative approach enable me to work effectively with diverse teams. 
+        I am eager to contribute my technical expertise to challenging projects and deliver innovative solutions.</p>
     </section>
 
     <section id="skills">
-        <u><h2>Skills</h2></u>
+        <h2>Skills</h2>
         <ul>
             <li>Python</li>
             <li>SQL</li>
@@ -46,11 +83,11 @@
     </section>
 
     <section id="experience">
-        <u><h2>Experience</h2></u>
+        <h2>Experience</h2>
         <div class="experience-item">
             <h3>Data Engineer</h3>
             <h4>Absa | Remotely</h4>
-            <i><p>Feb 2024 - Jul 2024</p></i>
+            <p>Feb 2024 - Jul 2024</p>
             <ul>
                 <li>Monitored daily application performance using ESP dSeries WADE.</li>
                 <li>Developed NLP models for named entity recognition.</li>
@@ -60,7 +97,7 @@
         <div class="experience-item">
             <h3>Data Engineer</h3>
             <h4>Sand Technologies | Remotely</h4>
-            <i><p>Jul 2023 - Feb 2024</p></i>
+            <p>Jul 2023 - Feb 2024</p>
             <ul>
                 <li>Extracted, transformed, and loaded data from diverse sources using Python and SQL.</li>
                 <li>Worked with big data technologies like Hadoop, PySpark, and Apache Airflow.</li>
@@ -71,7 +108,7 @@
         <div class="experience-item">
             <h3>IT Technician</h3>
             <h4>Department of COGHSTA | Polokwane</h4>
-            <i><p>Oct 2019 - Apr 2021</p></i>
+            <p>Oct 2019 - Apr 2021</p>
             <ul>
                 <li>Provided technical support to end-users.</li>
                 <li>Installed software and drivers.</li>
@@ -82,44 +119,43 @@
     </section>
 
     <section id="education">
-        <u><h2>Education & Certifications</h2></u>
+        <h2>Education & Certifications</h2>
         <div class="education-item">
-            <h3><li>National Certificate System Development</li></h3>
+            <h3>National Certificate System Development</h3>
             <h4>ExploreAI Academy</h4>
-            <i><p>Jun 2023 - Jul 2024</p></i>
+            <p>Jun 2023 - Jul 2024</p>
         </div>
         <div class="education-item">
-            <h3><li>National Certificate (Vocational) Information Technology and Computer Science</li></h3>
+            <h3>National Certificate (Vocational) Information Technology and Computer Science</h3>
             <h4>Capricorn TVET College</h4>
-            <i><p>Feb 2015 - Dec 2017</p></i>
+            <p>Feb 2015 - Dec 2017</p>
         </div>
         <div class="education-item">
-            <h3><li>Microsoft Certified Solution Expert</li></h3>
+            <h3>Microsoft Certified Solution Expert</h3>
             <h4>Microsoft</h4>
-            <i><p>11 Jun 2019</p></i>
+            <p>Jun 2019</p>
         </div>
         <div class="education-item">
-            <h3><li>Microsoft Certified Azure AI Fundamentals</li></h3>
+            <h3>Microsoft Certified Azure AI Fundamentals</h3>
             <h4>Microsoft</h4>
-            <i><p>25 Mar 2021</p></i>
+            <p>Mar 2021</p>
         </div>
         <div class="education-item">
-            <h3><li>Microsoft Power BI Desktop for Business Intelligence</li></h3>
+            <h3>Microsoft Power BI Desktop for Business Intelligence</h3>
             <h4>Udemy</h4>
-            <i><p>07 Apr 2024</p></i>
+            <p>Apr 2024</p>
         </div>
     </section>
 
     <section id="contact">
-        <u><h2>Contact</h2></u>
+        <h2>Contact</h2>
         <p>Email: suzanrapatsa86@gmail.com</p>
         <p>LinkedIn: https://www.linkedin.com/in/kgoadi-ba-suzan-rapatsha</p>
         <p>Phone: +27 79 124 6696</p>
     </section>
 
     <footer>
-        <p>&copy; 2024 Kgoadiba Suzan</p>
+        <p>&copy; 2023 Kgoadiba Suzan</p>
     </footer>
 </body>
 </html>
-
